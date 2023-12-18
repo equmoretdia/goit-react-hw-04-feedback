@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 60px 20px;
+}
+
+.item {
+  font-size: 22px;
+  text-align: center;
+  line-height: 1.33;
+  letter-spacing: 0.12em;
+}
